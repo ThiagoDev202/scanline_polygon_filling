@@ -1,4 +1,4 @@
-AI-GAs-RegClass
+# AI-GAs-RegClass
 Overview
 
 AI-GAs-RegClass is a Python-based project focused on rendering 2D images using advanced shading techniques. The core functionalities include implementing Flat and Gouraud shading methods to visualize geometric shapes with color interpolation. This project is highly relevant for computer graphics, visualization, and AI-related applications that require efficient and accurate rendering of 2D shapes.
